@@ -32,3 +32,6 @@ dist-ssr
 .env.*
 .eslintcache
 graphify-out
+
+# TypeScript
+*.tsbuildinfo
